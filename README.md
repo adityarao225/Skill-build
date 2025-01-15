@@ -1,4 +1,4 @@
-# **KPI Analysis Project**
+# **Data-Generation-Consumption**
 
 This project is designed to simulate the generation, storage, and analysis of Key Performance Indicator (KPI) data for network switches. The project includes two main components:
 
